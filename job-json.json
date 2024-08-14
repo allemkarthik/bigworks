@@ -1,0 +1,56 @@
+[
+    {
+        "company": "Microsoft",
+        "job_title": "Software Engineer",
+        "location": "Hyderabad, India",
+        "posted_on": "3 days ago",
+        "Employment type": "Full-time",
+        "Seniority level": "Mid-Senior level",
+        "posted_date": "11-08-2024"
+    },
+    {
+        "company": "Microsoft",
+        "job_title": "Data Analyst",
+        "location": "Bangalore, India",
+        "posted_on": "1 week ago",
+        "Employment type": "Full-time",
+        "Seniority level": "Junior level",
+        "posted_date": "04-08-2024"
+    },
+    {
+        "company": "Google",
+        "job_title": "Product Manager",
+        "location": "Bangalore, India",
+        "posted_on": "1 week ago",
+        "Employment type": "Full-time",
+        "Seniority level": "Senior level",
+        "posted_date": "04-08-2024"
+    },
+    {
+        "company": "Google",
+        "job_title": "Software Engineer",
+        "location": "Hyderabad, India",
+        "posted_on": "2 days ago",
+        "Employment type": "Full-time",
+        "Seniority level": "Mid-Senior level",
+        "posted_date": "12-08-2024"
+    },
+    {
+        "company": "Amazon",
+        "job_title": "Data Scientist",
+        "location": "Delhi, India",
+        "posted_on": "2 days ago",
+        "Employment type": "Contract",
+        "Seniority level": "Entry level",
+        "posted_date": "12-08-2024"
+    },
+    {
+        "company": "Amazon",
+        "job_title": "Business Analyst",
+        "location": "Mumbai, India",
+        "posted_on": "5 days ago",
+        "Employment type": "Full-time",
+        "Seniority level": "Mid-Senior level",
+        "posted_date": "09-08-2024"
+    }
+]
